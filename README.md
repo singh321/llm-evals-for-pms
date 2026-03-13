@@ -1,2 +1,13 @@
-# llm-evals-for-pms
-A PM-friendly guide to evaluating LLM product quality, safety, reliability, and business impact.
+# LLM Evals for PMs
+
+A practical guide for Product Managers working with LLM-based products.
+
+## Topics
+
+- quality evaluation
+- hallucination assessment
+- task success measurement
+- user trust
+- latency and cost trade-offs
+- safety and guardrails
+- business success metrics
