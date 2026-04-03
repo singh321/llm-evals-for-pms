@@ -1,13 +1,53 @@
 # LLM Evals for PMs
 
-A practical guide for Product Managers working with LLM-based products.
+A practical guide to evaluating AI/LLM products — covering offline evals, online metrics, golden datasets, and real-world evaluation systems.
 
-## Topics
+---
 
-- quality evaluation
-- hallucination assessment
-- task success measurement
+## Why this repo exists
+
+AI products are not deterministic.
+
+Traditional metrics like:
+- conversion
+- retention
+
+are NOT enough.
+
+You need structured evaluation across:
+- model quality
+- workflow effectiveness
 - user trust
-- latency and cost trade-offs
-- safety and guardrails
-- business success metrics
+- business impact
+
+---
+
+## What’s inside
+
+- [LLM Evals Overview](./llm-evals-overview.md)
+- [Golden Dataset Guide](./golden-dataset-guide.md)
+- [Evaluation Metrics Framework](./eval-metrics-framework.md)
+- [LLM-as-a-Judge](./llm-as-judge-guide.md)
+- [Offline vs Online Evals](./offline-vs-online-evals.md)
+- [Eval Pipeline Template](./eval-pipeline-template.md)
+
+---
+
+## Who this is for
+
+- AI PMs
+- GenAI product teams
+- Founders building AI products
+- Engineers working on LLM systems
+
+---
+
+## Key idea
+
+> If you cannot measure AI quality, you cannot improve it.
+
+---
+
+## About
+
+Built by Bhoopendra Kumar (Bhuppi) — AI Product Leader working on GenAI, agentic workflows, and AI platforms.
