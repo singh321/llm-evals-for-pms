@@ -47,6 +47,10 @@ You need structured evaluation across:
 > If you cannot measure AI quality, you cannot improve it.
 
 ---
+## New This Week
+- [Evaluating Agentic AI Products: A PM Framework from Offline Evals to Production Trust](./agentic-ai-evaluation-framework.md)
+
+A practical framework for PMs to evaluate agentic AI systems across routing, tool use, response quality, workflow completion, and production trust.
 
 ## About
 
